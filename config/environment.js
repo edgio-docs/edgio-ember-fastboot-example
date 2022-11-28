@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'layer0-ember-fastboot-example',
+    modulePrefix: 'edgio-ember-fastboot-example',
     environment,
     rootURL: '/',
     locationType: 'auto',

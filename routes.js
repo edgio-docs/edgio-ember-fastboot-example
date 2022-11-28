@@ -1,5 +1,5 @@
-const { Router } = require("@layer0/core/router");
-const { fastbootRoutes } = require('@layer0/fastboot')
+const { Router } = require("@edgio/core/router");
+const { fastbootRoutes } = require('@edgio/fastboot')
 
 module.exports = new Router()
   .get('/', ({ cache }) => {

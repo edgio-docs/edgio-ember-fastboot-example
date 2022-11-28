@@ -1,6 +1,6 @@
-// This file was automatically added by layer0 deploy.
+// This file was automatically added by edgio deploy.
 // You should commit this file to source control.
 module.exports = {
-  connector: "@layer0/fastboot",
+  connector: "@edgio/fastboot",
   includeNodeModules: true
 };
